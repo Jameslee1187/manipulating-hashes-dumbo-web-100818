@@ -12,7 +12,8 @@ def first_challenge
       favorite_icecream_flavors: ["strawberry", "cookie dough", "mint chip"]
     }
   }
-
+.delete_ifcontacts["Freddy Mercury"][:favorite_icecream_flavors].include?["strawberry"]
+first_challenge
   #your code here
 
 
